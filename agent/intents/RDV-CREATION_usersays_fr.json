@@ -1,0 +1,772 @@
+[
+  {
+    "id": "adda6682-0f9d-49fb-b9e4-146a68d75eb4",
+    "data": [
+      {
+        "text": "prendre rdv pour mon ",
+        "userDefined": false
+      },
+      {
+        "text": "pacs",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ae9e28cb-5826-4c09-a8d0-245c8a644377",
+    "data": [
+      {
+        "text": "rdv rapidement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "847b3850-9f3a-4902-90cd-05db85085089",
+    "data": [
+      {
+        "text": "je veux ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d1140125-9a3f-43ce-9c62-2a475078befb",
+    "data": [
+      {
+        "text": "possible de réserver ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv ",
+        "userDefined": false
+      },
+      {
+        "text": "la semaine prochaine",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3508c1fa-5986-4891-95de-b2598b1800d7",
+    "data": [
+      {
+        "text": "comment obtenir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous avec le ",
+        "userDefined": false
+      },
+      {
+        "text": "maire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "758a323a-5204-4f71-a62b-9ed6a0611dea",
+    "data": [
+      {
+        "text": "comment avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez-vous avec le ",
+        "userDefined": false
+      },
+      {
+        "text": "périscolaire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0c1f0e91-7468-45b4-a3f0-b605a6486ec1",
+    "data": [
+      {
+        "text": "comment je peux prendre rendez vous avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "urbanisme",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " rapidement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "225fc98a-2ea4-471e-a82c-f63ad342916a",
+    "data": [
+      {
+        "text": "rendez vous avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "urbanisme",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "80fb1a85-c5fd-41a8-b4f0-4a9ddbaea869",
+    "data": [
+      {
+        "text": "il faut rapidement que je puisse avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez pour discuter d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " probleme",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8aa310f3-d013-4589-b625-3ec8e447e7df",
+    "data": [
+      {
+        "text": "je veux ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous pour pouvoir récupérer le ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "PI",
+        "userDefined": true
+      },
+      {
+        "text": " de ma fille",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bb9358e0-d872-4712-802c-f589034c1358",
+    "data": [
+      {
+        "text": "rendez vous rapidement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "7ad03b6c-d179-4d78-8cc5-d286248937c9",
+    "data": [
+      {
+        "text": "ca ne va pas!!! je veux prendre ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous ",
+        "userDefined": false
+      },
+      {
+        "text": "tout de suite",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "7ef7c632-a8ee-4394-a048-40fcac4adc11",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "équipe municipale",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "13639d83-5c1a-407b-bd89-cff893dc60de",
+    "data": [
+      {
+        "text": "comment réussir à avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous avec ",
+        "userDefined": false
+      },
+      {
+        "text": "le maire",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e1219009-260a-465e-af1f-cbdf145bb2ae",
+    "data": [
+      {
+        "text": "comment choper ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous pour le ",
+        "userDefined": false
+      },
+      {
+        "text": "passport",
+        "meta": "@PI",
+        "alias": "PI",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e6a66aba-ad11-4ea3-b65c-7c906c1f6b1b",
+    "data": [
+      {
+        "text": "c\u0027est posssible de prendre rendez vous avec les ",
+        "userDefined": false
+      },
+      {
+        "text": "services techniques",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cee302da-4e1c-4f3b-a1b3-3f85c8c90464",
+    "data": [
+      {
+        "text": "rendez vous possible par les ",
+        "userDefined": false
+      },
+      {
+        "text": "services techniques",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0bb55376-33a7-487c-b50f-208ea7265c61",
+    "data": [
+      {
+        "text": "rendez vous avec la ",
+        "userDefined": false
+      },
+      {
+        "text": "voirie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a9378452-afff-4a8e-b534-4789bd616bbb",
+    "data": [
+      {
+        "text": "comment prendre rendez vous pour récupéré ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " papier d\u0027identié",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f9c5e1f4-b598-4ad5-9be1-607df24f55a3",
+    "data": [
+      {
+        "text": "je veuxun rendez vous avec la ",
+        "userDefined": false
+      },
+      {
+        "text": "voirie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "83f91592-e788-4b21-bf36-67c4190a22f2",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "état civil",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "305a101a-2188-4278-b50e-c000dd1a7573",
+    "data": [
+      {
+        "text": "possible de prendre ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous pendant les vacances scolaires ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "096267cd-1e43-4bdd-a196-92df0e753a09",
+    "data": [
+      {
+        "text": "possible de prendre ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous ",
+        "userDefined": false
+      },
+      {
+        "text": "pour la semaine prochaine",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2a3114b8-0ce6-475b-a058-950806533ef2",
+    "data": [
+      {
+        "text": "possible de prendre un rendez vous ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "94e3ab87-1c75-455d-b95f-ef0f5c627e6c",
+    "data": [
+      {
+        "text": "possible d\u0027avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ae8725d2-3475-4813-b9b1-894eeecb3f1d",
+    "data": [
+      {
+        "text": "je veux ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez ",
+        "userDefined": false
+      },
+      {
+        "text": "la semaine prochaine",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fabcddd4-9101-4a1b-b8c8-d412c0180e38",
+    "data": [
+      {
+        "text": "avoir rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ff34173e-6f9a-4b84-87a1-f8246d9b5442",
+    "data": [
+      {
+        "text": "obtenir rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fecbf3e2-6b0b-4337-b678-316531405cae",
+    "data": [
+      {
+        "text": "comment obtenir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fce7931d-4c7c-4f03-aac8-8bce7114131e",
+    "data": [
+      {
+        "text": "comment faire pour avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fe857788-7d55-490e-acb5-f9614a0909a9",
+    "data": [
+      {
+        "text": "comment prendre rendez vous ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9aebd4dc-7888-4de8-b9f9-085481cb8ae2",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f81b4963-fe7d-43be-b558-7efbdda41cf2",
+    "data": [
+      {
+        "text": "rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5453c81f-09c5-47ff-b331-fcdb90bf079b",
+    "data": [
+      {
+        "text": "je veux avoir un rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "86aea151-2e99-4cae-b28d-e4741bfaec41",
+    "data": [
+      {
+        "text": "je veux prendre rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "27544f29-4229-4c81-a01c-580ebfe046fe",
+    "data": [
+      {
+        "text": "Je veux un rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

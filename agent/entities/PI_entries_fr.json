@@ -1,0 +1,23 @@
+[
+  {
+    "value": "CNI",
+    "synonyms": [
+      "CNI",
+      "carte d\u0027identité",
+      "carte identité",
+      "carte nationale d\u0027identité",
+      "CI",
+      "papier d\u0027identité",
+      "papiers d\u0027identité",
+      "piece d\u0027identité",
+      "pièce d\u0027identité"
+    ]
+  },
+  {
+    "value": "passeport",
+    "synonyms": [
+      "passeport",
+      "passport"
+    ]
+  }
+]

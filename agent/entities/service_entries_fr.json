@@ -1,0 +1,56 @@
+[
+  {
+    "value": "etat-civil",
+    "synonyms": [
+      "etat-civil",
+      "état civil",
+      "civil",
+      "pacs",
+      "PACS",
+      "PAX",
+      "mariage"
+    ]
+  },
+  {
+    "value": "urbanisme",
+    "synonyms": [
+      "urbanisme",
+      "urbanistes",
+      "service de l\u0027urbanisme"
+    ]
+  },
+  {
+    "value": "voirie",
+    "synonyms": [
+      "voirie"
+    ]
+  },
+  {
+    "value": "periscolaire",
+    "synonyms": [
+      "periscolaire",
+      "garderie",
+      "creche"
+    ]
+  },
+  {
+    "value": "technique",
+    "synonyms": [
+      "technique",
+      "services techniques",
+      "service technique"
+    ]
+  },
+  {
+    "value": "secretariat",
+    "synonyms": [
+      "secretariat",
+      "le maire",
+      "equipe municpale",
+      "equipe",
+      "maire",
+      "mairie",
+      "équipe municipale"
+    ]
+  }
+]

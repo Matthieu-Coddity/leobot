@@ -1,0 +1,902 @@
+[
+  {
+    "id": "b7ef9f16-a58c-4687-8693-97094b4429ac",
+    "data": [
+      {
+        "text": "j\u0027avais rendez vous pour changer mon ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "PI",
+        "userDefined": false
+      },
+      {
+        "text": " mais je suis malade comment changer ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "userDefined": false
+      },
+      {
+        "text": " date ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8e59c98f-0364-43c9-a604-842394114abe",
+    "data": [
+      {
+        "text": "comment je peux changer ",
+        "userDefined": false
+      },
+      {
+        "text": "la",
+        "userDefined": false
+      },
+      {
+        "text": " date de mon rdv avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "équipe municipale",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ce91e5ec-7feb-4ccd-952d-e655ea02e053",
+    "data": [
+      {
+        "text": "décalage de mon rdv à ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " date ultérieure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "689df182-c6ef-427f-be8f-2de3469df625",
+    "data": [
+      {
+        "text": "décalage de mon rendez vous avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "état civil",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " pour mon ",
+        "userDefined": false
+      },
+      {
+        "text": "pacs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a871e4f8-2b31-432f-bec3-510976b95d28",
+    "data": [
+      {
+        "text": "je vous écris pour vous dire que je ne pourrais pas etre ",
+        "userDefined": false
+      },
+      {
+        "text": "là",
+        "userDefined": false
+      },
+      {
+        "text": " au rendez vous prévu ",
+        "userDefined": false
+      },
+      {
+        "text": "vendredi",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", peux tu le changer ",
+        "userDefined": false
+      },
+      {
+        "text": "pour mardi prochain",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "1097c6a8-cf3f-4e0f-ab6e-ef97d787ca1f",
+    "data": [
+      {
+        "text": "plus de train ! comment décaler le rendez vous de ",
+        "userDefined": false
+      },
+      {
+        "text": "ce matin",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avec",
+        "userDefined": false
+      },
+      {
+        "text": " le ",
+        "userDefined": false
+      },
+      {
+        "text": "maire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9b7da97b-5e60-4438-a146-ac7160895872",
+    "data": [
+      {
+        "text": "j\u0027avais rendez vous avec le ",
+        "userDefined": false
+      },
+      {
+        "text": "périscolaire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mardi prochain",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " mais ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " grève est annoncée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9bd5b0f2-2822-458d-ac5a-5c418f480503",
+    "data": [
+      {
+        "text": "change",
+        "userDefined": false
+      },
+      {
+        "text": " la date de ",
+        "userDefined": false
+      },
+      {
+        "text": "la visite",
+        "userDefined": false
+      },
+      {
+        "text": " des ",
+        "userDefined": false
+      },
+      {
+        "text": "service techniques",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8f2e1370-e4f5-460c-8d6c-61b86322d3c7",
+    "data": [
+      {
+        "text": "repousse mon rendez vous avec ",
+        "userDefined": false
+      },
+      {
+        "text": "maire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "07bf67be-de63-4df2-92e1-b08736a7e6d8",
+    "data": [
+      {
+        "text": "change",
+        "userDefined": false
+      },
+      {
+        "text": " mon rendez vous ",
+        "userDefined": false
+      },
+      {
+        "text": "pour la semaine prochaine",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " c\u0027est possible?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "1073a9e4-5fae-4797-b38f-5e0b3d158cdd",
+    "data": [
+      {
+        "text": "décale mon rendez vous robot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cdafcf74-c09f-4744-ae8f-1535d920a7a1",
+    "data": [
+      {
+        "text": "pas le choix décale mon rendez vous avec la ",
+        "userDefined": false
+      },
+      {
+        "text": "voirie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9f1b60b6-f6cb-429b-9126-6923d56443a6",
+    "data": [
+      {
+        "text": "mon fils est malade, il ne pourra honorer le rendez vous du ",
+        "userDefined": false
+      },
+      {
+        "text": "mardi 03 mars",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " comment on fait pour décaler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "697a1632-a7b0-419c-81cb-7f3f36682acd",
+    "data": [
+      {
+        "text": "j\u0027avais fixé rendez vous avec les ",
+        "userDefined": false
+      },
+      {
+        "text": "urbanistes",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "mairie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "demain matin",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", mais ",
+        "userDefined": false
+      },
+      {
+        "text": "l\u0027architecte",
+        "userDefined": false
+      },
+      {
+        "text": " n\u0027est pas là, comment on fait pour décaler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a2dbdf84-714c-4126-9cc3-4fed34659c1a",
+    "data": [
+      {
+        "text": "comment faire car mon compagnon est malade et on avait rendez vous ",
+        "userDefined": false
+      },
+      {
+        "text": "demain matin",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": ", on peut décaler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0dd62af3-9c68-4026-a5e3-5de9e8f1e214",
+    "data": [
+      {
+        "text": "ma conjointe est malade on avait rendez vous pour le ",
+        "userDefined": false
+      },
+      {
+        "text": "pacs",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " comment faire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "801a51a5-7be5-47f1-9002-377b83062201",
+    "data": [
+      {
+        "text": "ma voiture est en panne, il faut que je décale le rendez vous prévu avec ",
+        "userDefined": false
+      },
+      {
+        "text": "le service",
+        "userDefined": false
+      },
+      {
+        "text": " du ",
+        "userDefined": false
+      },
+      {
+        "text": "pacs",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2fd977a4-f67c-4642-acfe-65962844638c",
+    "data": [
+      {
+        "text": "il faut que je reprogramme le rendez vous que ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " avec la ",
+        "userDefined": false
+      },
+      {
+        "text": "voirie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5ae7fdd4-3f16-4350-b96f-09daf2914fea",
+    "data": [
+      {
+        "text": "comment faire pour décaler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv pris ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6bef3c58-fd36-4e0b-9568-0af8437c6b59",
+    "data": [
+      {
+        "text": "impossible pour moi de venir au rendez vous, c\u0027est possible de decaler ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4c20c20b-a818-4a66-9506-37bc45cfd35a",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " empechement il faut que je repousse mon rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3553ac74-0244-4a69-a0e5-68e94f9982c8",
+    "data": [
+      {
+        "text": "je veux décaler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8040c3df-7cc9-4b54-8089-68e70fb1f6b0",
+    "data": [
+      {
+        "text": "j\u0027avais un rendez que je dois décaler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "03d58e57-e488-430b-b6c2-ea5e390a154c",
+    "data": [
+      {
+        "text": "j\u0027avais pris ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous mais je dois décaler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cc97d6fe-43fc-43b1-b6a8-b49809307d28",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " contre temps il faut que je décale mon rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "94373952-97dc-47a4-b7b6-80e655aa203b",
+    "data": [
+      {
+        "text": "je ne pourrais pas venir au rendez vous que ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " pris ",
+        "userDefined": false
+      },
+      {
+        "text": "la semaine dernière",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " comment décaler?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "784d99ed-e67b-426c-b61b-59fce2a14cd1",
+    "data": [
+      {
+        "text": "je ne pourrais pas venir au rdv comment decaler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3e96f5c5-2212-4241-88d3-f927a6e2e38c",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " besoin de décaler mon rendez vous à plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "45d09b75-d34b-4ea6-a8b2-de40bef84709",
+    "data": [
+      {
+        "text": "repousser ",
+        "userDefined": false
+      },
+      {
+        "text": "min",
+        "userDefined": false
+      },
+      {
+        "text": " rendez-vous à plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cf10b861-0083-49fa-9572-5f8d02172cf5",
+    "data": [
+      {
+        "text": "repousser mon rdv à plus tard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3cce5c2e-cb25-4e5f-a41b-ea666d0cf46e",
+    "data": [
+      {
+        "text": "comment repousser mon rdv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "504318d2-d25c-41d0-9ddc-0d8dabe05ea6",
+    "data": [
+      {
+        "text": "comment repousser mon rendez vous?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "829112ea-70a6-4258-a65c-8d2a2ace939a",
+    "data": [
+      {
+        "text": "il faut que je decale mon rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "db35263b-234f-4860-8e61-9d31021ea2be",
+    "data": [
+      {
+        "text": "il faut que je decale mon rdv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6c240023-cf33-4e74-bfe3-f2c04ec36208",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv que je veux decale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d4a20ec9-60ae-45d2-8a1d-5521d59f29fd",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv que je veux décaler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3c310e1d-708b-4ba0-b47b-4d90b697e50c",
+    "data": [
+      {
+        "text": "je veux repousser mon rdv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "65a85b7f-13fc-40d5-9750-e746b17d4a80",
+    "data": [
+      {
+        "text": "je veux repousser mon rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "57904dd5-a699-4c80-9f84-1444f472d556",
+    "data": [
+      {
+        "text": "je veux décaler mon rdv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c88b0c29-2138-47a1-8995-0bd5eb69e7cc",
+    "data": [
+      {
+        "text": "je veux décaler mon rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

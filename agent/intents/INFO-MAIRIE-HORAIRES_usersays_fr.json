@@ -1,0 +1,909 @@
+[
+  {
+    "id": "d3496227-a8c4-4ca3-b76e-9531859d51b2",
+    "data": [
+      {
+        "text": "le service",
+        "userDefined": false
+      },
+      {
+        "text": " des ",
+        "userDefined": false
+      },
+      {
+        "text": "mariages",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " ouvre à quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "7e79d9cf-c662-48da-8077-31590cfa5ef5",
+    "data": [
+      {
+        "text": "A quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": " est ouvert ",
+        "userDefined": false
+      },
+      {
+        "text": "le service",
+        "userDefined": false
+      },
+      {
+        "text": " pour le ",
+        "userDefined": false
+      },
+      {
+        "text": "PACS",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "398dc750-1f64-4a2c-953b-ae2944aff228",
+    "data": [
+      {
+        "text": "tu peux me donner les horaires pour passer vous voir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "86c75040-823a-42e3-92af-429c30b03382",
+    "data": [
+      {
+        "text": "pendant les vacances votre accueil est il ouvert ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "86ece15c-1945-4a87-8733-55d721c23c85",
+    "data": [
+      {
+        "text": "pendant les vacances scolaires vous etes ouvert ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bb9cab57-6dac-4fc3-9f10-e33399c5d9e5",
+    "data": [
+      {
+        "text": "comment savoir si vous etes ouvert ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "b238946c-f62e-420e-8192-f83f4c9fc10d",
+    "data": [
+      {
+        "text": "la mairie est",
+        "userDefined": false
+      },
+      {
+        "text": " elle ouverte ",
+        "userDefined": false
+      },
+      {
+        "text": "le samedi",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6188cd9f-cda9-43f7-915b-030252c1b2bd",
+    "data": [
+      {
+        "text": "etes vous ouvert ",
+        "userDefined": false
+      },
+      {
+        "text": "le samedi",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d8709d13-c0a1-4677-be42-09bbe31c34ec",
+    "data": [
+      {
+        "text": "est ce que le l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "état civil",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " est ouvert ",
+        "userDefined": false
+      },
+      {
+        "text": "demain",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f8fc61b0-00c6-4f67-a620-d23eb3069651",
+    "data": [
+      {
+        "text": "est ce que vous êtes ouvert au ",
+        "userDefined": false
+      },
+      {
+        "text": "mois d\u0027aout",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e2c316c8-e49a-44b6-91a5-7d35404a3d98",
+    "data": [
+      {
+        "text": "est ce que vous serez fermés ",
+        "userDefined": false
+      },
+      {
+        "text": "la semaine prochaine",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2292fe8c-93b2-45c7-ae62-7d289cb58b21",
+    "data": [
+      {
+        "text": "est ce que vous etes fermés?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f3cbc17c-d5c4-4aa1-8741-72634f352c19",
+    "data": [
+      {
+        "text": "est ce que vous etes ouvert pendant les vacances?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2c939479-c3a5-4129-941d-2bc74eaab523",
+    "data": [
+      {
+        "text": "je dois passer chercher ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " document, le ",
+        "userDefined": false
+      },
+      {
+        "text": "secretariat",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " ouvre à quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5134e603-0294-42dc-8b56-47522da4d5f2",
+    "data": [
+      {
+        "text": "si on veut passer à la ",
+        "userDefined": false
+      },
+      {
+        "text": "voirie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": ", ça ouvre à quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "73ded424-dafd-4085-931a-a1a7507d29de",
+    "data": [
+      {
+        "text": "vous etes ouvert ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "7b952793-267b-498a-b6a3-231c742625f6",
+    "data": [
+      {
+        "text": "a quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": " l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "état civil",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " ouvre ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c97aeb25-a88c-4970-af06-82e2963e896e",
+    "data": [
+      {
+        "text": "je dois passer récupérer des documents à quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": " vous ouvrez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "019a7c07-b81b-4a16-8cd0-bc2806a861b6",
+    "data": [
+      {
+        "text": "horaire pour la ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "PI",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3d7f0528-4046-4eca-b5f8-d5ac2243cc2f",
+    "data": [
+      {
+        "text": "horaire pour les ",
+        "userDefined": false
+      },
+      {
+        "text": "pièces d\u0027identité",
+        "meta": "@PI",
+        "alias": "PI",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "72733cf9-93cd-421d-8dfc-f1044cf423d5",
+    "data": [
+      {
+        "text": "horaire pour les ",
+        "userDefined": false
+      },
+      {
+        "text": "services techniques",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "590b4b35-dfc8-4a5f-9df8-282644c47aee",
+    "data": [
+      {
+        "text": "horaire pour l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "état civil",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "08aabba5-671e-4aa0-baa8-d6623db00b4f",
+    "data": [
+      {
+        "text": "je dois aller ",
+        "userDefined": false
+      },
+      {
+        "text": "au service",
+        "userDefined": false
+      },
+      {
+        "text": " de l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "état civil",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": ", il ouvre à quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "de738684-d91f-406d-913b-c104f2e9ef73",
+    "data": [
+      {
+        "text": "je dois aller au service de la ",
+        "userDefined": false
+      },
+      {
+        "text": "voirie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": ", il ouvre à quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2744139e-98f0-4876-a6bc-82634d6f95eb",
+    "data": [
+      {
+        "text": "je veux passer vous voir ",
+        "userDefined": false
+      },
+      {
+        "text": "ce soir",
+        "userDefined": false
+      },
+      {
+        "text": ", a quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": " etes vous fermé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cf929662-c172-4a09-8483-a794a39056f0",
+    "data": [
+      {
+        "text": "il faut que je passe vous voir, a quelle ",
+        "userDefined": false
+      },
+      {
+        "text": "heure",
+        "userDefined": false
+      },
+      {
+        "text": " etes vous ouvert",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c3dd770f-9237-4c97-b815-f7fb188f94ab",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "userDefined": false
+      },
+      {
+        "text": " horaires",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "96caa199-818a-4bca-a0cd-7e37439f9476",
+    "data": [
+      {
+        "text": "file moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "userDefined": false
+      },
+      {
+        "text": " horaires",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4a747e5f-45fc-46b9-85c4-6f25143febe9",
+    "data": [
+      {
+        "text": "donne moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "userDefined": false
+      },
+      {
+        "text": " horaires",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "765b2c2f-9d71-47f3-ace7-1eedeb55bee3",
+    "data": [
+      {
+        "text": "file moi horaire",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3db2aa4e-b326-45e0-af32-e4034a34b039",
+    "data": [
+      {
+        "text": "file moi les horaires d\u0027ouverture de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a852d419-8eaa-45f4-98e7-71c3879eeb26",
+    "data": [
+      {
+        "text": "donne moi les horaires d\u0027ouverture de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "015fafb6-ea53-40fa-b972-99cfc5fef2c5",
+    "data": [
+      {
+        "text": "donne moi ",
+        "userDefined": false
+      },
+      {
+        "text": "les",
+        "userDefined": false
+      },
+      {
+        "text": " horaires d\u0027ouverture",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "95cc0e24-a81e-4a73-8490-cd9cb4bffb44",
+    "data": [
+      {
+        "text": "elle est ouverte quand ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9da63d51-008e-4456-b753-7e70ce244a23",
+    "data": [
+      {
+        "text": "c\u0027est les horaires ou ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie est",
+        "userDefined": false
+      },
+      {
+        "text": " ouverte?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fcb3bb81-1e50-4a9d-b4b3-1a3dc755d86a",
+    "data": [
+      {
+        "text": "c\u0027est quoi les horaires de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d7e0f5c1-cc3b-4a2d-ba90-6b8d72689f72",
+    "data": [
+      {
+        "text": "je veux les horaires d\u0027ouvertures de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "80ef7130-3b21-4d71-a5fe-4a8b848f70c3",
+    "data": [
+      {
+        "text": "horaires d\u0027ouverture de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c6d9fa4b-cbb4-4f54-9e68-4dfd96057c54",
+    "data": [
+      {
+        "text": "besoin des horaires",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0990fe41-4edb-460e-9b06-96bb36cc0330",
+    "data": [
+      {
+        "text": "je veux les horaires de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c3dd5a12-84c9-4a5f-b604-95582f41ccbb",
+    "data": [
+      {
+        "text": "les horaires de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie svp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e5e53c64-9cb2-44ac-9350-486974a7159e",
+    "data": [
+      {
+        "text": "horaires de ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d71b2898-7f18-4421-95e9-145d8bc7c619",
+    "data": [
+      {
+        "text": "INFO",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

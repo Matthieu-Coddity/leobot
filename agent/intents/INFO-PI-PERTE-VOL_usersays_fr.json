@@ -1,0 +1,1029 @@
+[
+  {
+    "id": "dbbdfd8c-3402-4a4a-a9c5-45be301406bf",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " perdu ma ",
+        "userDefined": false
+      },
+      {
+        "text": "pièce d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", comment je peux faire pour ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " refaire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "56f7202f-23e5-497d-b26e-389aad54f6dd",
+    "data": [
+      {
+        "text": "quand on nous a volé sa ",
+        "userDefined": false
+      },
+      {
+        "text": "pièce d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", faut aller à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a3a5d34c-7d83-4e6b-9beb-74210c966d79",
+    "data": [
+      {
+        "text": "quand on a perdu sa ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " il faut aller à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": " pour la faire refaire ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8bcabd26-1e1c-4194-be1f-3502aeafd54f",
+    "data": [
+      {
+        "text": "c\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": " qui se charge de refaire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " quand on l\u0027a perdu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "cd05fe52-2da9-42b8-816a-afe522a91142",
+    "data": [
+      {
+        "text": "comment ça marche de refaire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pièce d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après un vol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5ed0aeb6-a6e8-4674-8f38-86a299c22f24",
+    "data": [
+      {
+        "text": "c\u0027est vous qui refaites des ",
+        "userDefined": false
+      },
+      {
+        "text": "cartes d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " si on en a perdu ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "f8ff4c44-e389-44b5-a629-adb064e9bc04",
+    "data": [
+      {
+        "text": "c\u0027est à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": " qu\u0027on peut faire refaire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " vol?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e3dd2fc5-4339-4199-afd3-32acbe1f8035",
+    "data": [
+      {
+        "text": "perte de ",
+        "userDefined": false
+      },
+      {
+        "text": "CNI",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", comment ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e5f51df0-41b6-4162-aaff-0cac80e010ea",
+    "data": [
+      {
+        "text": "faire refaire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " perte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "56ff8a54-02ee-41d6-bb45-77e48d30822a",
+    "data": [
+      {
+        "text": "faire refaire un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " car perdu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "40016cc2-e3c4-48f1-ac87-907eb25f8d7e",
+    "data": [
+      {
+        "text": "comment refaire paseeport après ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " vol à l\u0027arrachée",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9d170c4f-9d72-4e15-9809-2a7c2fe173c7",
+    "data": [
+      {
+        "text": "comment refaire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CNI",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après l\u0027avoir perdue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "daf79329-58ba-46ba-b5de-20b756db961a",
+    "data": [
+      {
+        "text": "refaire un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après vol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c0a3837d-0e01-4bb9-8613-fef1700014fc",
+    "data": [
+      {
+        "text": "refaire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "CNI",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " vol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4fe97db3-1811-4ae0-840d-0a4884837334",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "été",
+        "userDefined": false
+      },
+      {
+        "text": " volé il ont pris ma ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", comment faire pour en avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e857ecb6-bba0-4e54-be4e-2c3ec2664bf7",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " car on a volé la mienne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "98303c14-d4a4-4c4f-86d7-4420bd843679",
+    "data": [
+      {
+        "text": "il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " car ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " perdu la mienne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "fd724f8b-2dca-4273-a206-72195652e868",
+    "data": [
+      {
+        "text": "comment faire quand on a perdu sa ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " et qu\u0027il nous en faut ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "14501772-979e-4c9f-8ada-a3a7f82627f9",
+    "data": [
+      {
+        "text": "commetnt faire après ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " perte de ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "981520b5-57f4-456d-944f-cedcad165694",
+    "data": [
+      {
+        "text": "on a cambriolé ma maison, il me faut un nouveau ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " rapidement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0aff6e32-fe46-4908-8989-29340e2ce10c",
+    "data": [
+      {
+        "text": "mon fils a perdu son ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " comment je peux ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " faire faire ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " autre ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6456c755-ce72-4a98-9915-fd7a833ddb70",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " perdu mon passeport dans le train comment je peux ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " nouveau il me le faut",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bb7cd4ae-b056-4b35-a0aa-866e6d6556c1",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " perdu ma ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", comment je peux ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "34c1adb9-c82f-4c14-8f4f-f85e8582502b",
+    "data": [
+      {
+        "text": "comment je peux obtenir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après l\u0027avoir perdu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ac3d7ad8-560f-44a0-ae64-0d8611fb232d",
+    "data": [
+      {
+        "text": "comment je peux avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " après ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " perte",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "0da1469e-e8b5-41fe-a76d-89976d0d563b",
+    "data": [
+      {
+        "text": "comment faire après ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " vol de ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e8f3ea94-beee-449c-b9ff-a587c0171832",
+    "data": [
+      {
+        "text": "comment faire après ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " vol de ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "529bf23c-5da7-49e2-9e0c-ae66c7b33e1d",
+    "data": [
+      {
+        "text": "on m\u0027a volé ma ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "883c5c2a-8c40-499b-91d1-ffde2bf26368",
+    "data": [
+      {
+        "text": "on m\u0027a volé mon ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "043327df-31c6-45ac-b5d4-c5ef5efd179c",
+    "data": [
+      {
+        "text": "vol ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "49614d25-d7b1-4508-8077-f19e861cc567",
+    "data": [
+      {
+        "text": "vol ",
+        "userDefined": false
+      },
+      {
+        "text": "carte identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "dddf419c-3394-4b01-9f37-3c9bdd360aa2",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " perdu mon ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8ddc1c47-bb1b-4443-9790-1c27a7259e8b",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " perdu ma ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

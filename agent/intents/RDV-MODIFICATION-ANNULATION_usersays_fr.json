@@ -1,0 +1,499 @@
+[
+  {
+    "id": "fa245a3c-c27b-4cbe-b853-78e8f14eebb0",
+    "data": [
+      {
+        "text": "je me dois d\u0027annuler mon rendez vous avec le ",
+        "userDefined": false
+      },
+      {
+        "text": "périscolaire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "171f6a8a-c79b-4ec5-a077-f08792e5ddf2",
+    "data": [
+      {
+        "text": "comment je peux annuler mon rendez vous je n\u0027ai pas le temps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "aafff06f-5e8d-4820-9616-2e2b1fda43df",
+    "data": [
+      {
+        "text": "comment je peux annuler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d84e5ae5-b4a6-4bae-ae5c-e57f82c146d2",
+    "data": [
+      {
+        "text": "je dois annuler mon rendez vous avec le le ",
+        "userDefined": false
+      },
+      {
+        "text": "maire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e7d5e1fc-b930-441a-a9ce-4b754e78564f",
+    "data": [
+      {
+        "text": "je n\u0027ai pas d\u0027autre choix que d\u0027annuler mon rendez vous avec la ",
+        "userDefined": false
+      },
+      {
+        "text": "mairie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2db7172b-968d-4556-b109-47c0b5051fca",
+    "data": [
+      {
+        "text": "comment annuler tous mes rendez vous pris avec la ",
+        "userDefined": false
+      },
+      {
+        "text": "mairie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": "? je déménage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "98d8f9cc-354b-48f2-a912-504ae45b3e14",
+    "data": [
+      {
+        "text": "comment annuler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv pris avec le ",
+        "userDefined": false
+      },
+      {
+        "text": "maire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " il y a quelques mois",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ead6eb3b-e901-497e-a204-df21f0fe165a",
+    "data": [
+      {
+        "text": "comment annuler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous que ",
+        "userDefined": false
+      },
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " pris ",
+        "userDefined": false
+      },
+      {
+        "text": "la semaine dernière",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "224b64ba-7766-4c8e-a57f-54a09b900812",
+    "data": [
+      {
+        "text": "comment annuler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous pris?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d58b5258-8e03-498c-8030-a1029c834b28",
+    "data": [
+      {
+        "text": "je veux annuler mon rendez vous avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "urbanisme",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6587cd67-756d-4be0-b18b-586a19445830",
+    "data": [
+      {
+        "text": "je souhaite annuler mon rdv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "691bf729-73a4-4def-9120-ba6a602dcca7",
+    "data": [
+      {
+        "text": "je souhaite annuler mon rdv avec la ",
+        "userDefined": false
+      },
+      {
+        "text": "voirie",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "366b189d-88a5-4008-826f-633c2bf2f4aa",
+    "data": [
+      {
+        "text": "j\u0027annule mon rdv avec le ",
+        "userDefined": false
+      },
+      {
+        "text": "maire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ed23dad5-574c-4632-9b67-a9c581fc6529",
+    "data": [
+      {
+        "text": "j\u0027annule ",
+        "userDefined": false
+      },
+      {
+        "text": "mon",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c5f31f8f-eaa2-425d-a259-878da6169ebe",
+    "data": [
+      {
+        "text": "j\u0027avais ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez pour mon ",
+        "userDefined": false
+      },
+      {
+        "text": "pacs",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " mais ma compagne ",
+        "userDefined": false
+      },
+      {
+        "text": "m",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027a quitté donc je préfère annuler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "56dd071e-4d6d-4083-a3d4-957a67796737",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " mon rendez vous avec l\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "équipe municipale",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "la semaine prochaine",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " mais je préfère annuler",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e58c3491-c98b-4fec-8922-d6ddb8cdf909",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " contretemps et je ne sais pas quand je serai à nouveau disponible, je préfére annuler mon rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "08a56516-89d7-48c2-8c2d-254f16409d69",
+    "data": [
+      {
+        "text": "je n\u0027ai plus besoin de voir le ",
+        "userDefined": false
+      },
+      {
+        "text": "maire",
+        "meta": "@service",
+        "alias": "service",
+        "userDefined": true
+      },
+      {
+        "text": " je préfère annuler le rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "15fd2d38-fe2a-41fb-83a5-3caa6b1a17cf",
+    "data": [
+      {
+        "text": "annuler mon rdv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c34c9cb5-3424-4951-9cca-8ace4ce340d8",
+    "data": [
+      {
+        "text": "annuler mon rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c1c593fb-94c2-4a28-b6c4-5f999c6aa1e3",
+    "data": [
+      {
+        "text": "annuler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rendez vous",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8189e19a-8950-482c-ac0f-d9cb4ef982ef",
+    "data": [
+      {
+        "text": "annuler ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "userDefined": false
+      },
+      {
+        "text": " rdv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3a39276a-9a8f-42d4-8397-16625fc9414b",
+    "data": [
+      {
+        "text": "annuler rdv",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

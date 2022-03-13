@@ -1,0 +1,954 @@
+[
+  {
+    "id": "51c84bcc-b3f8-4bc7-9d20-a6e8db065bd7",
+    "data": [
+      {
+        "text": "comment je peux faire pour avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "? je vais directement à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "87a4c115-8f88-494a-83db-79f4f3446321",
+    "data": [
+      {
+        "text": "aide moi pour ma ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "19e519b3-7e82-4086-bea1-1241774236bd",
+    "data": [
+      {
+        "text": "comment faire pour créer un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "476a197a-0ea1-481e-9571-46b475a4caae",
+    "data": [
+      {
+        "text": "aidez moi à avoir un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "1557cdbe-7cb1-4bd2-8c2b-cd3891779fd8",
+    "data": [
+      {
+        "text": "aidez moi, il me faut ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " pour mon ",
+        "userDefined": false
+      },
+      {
+        "text": "bébé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4e60a29e-0708-4627-986a-13309329a406",
+    "data": [
+      {
+        "text": "comment ça marche pour avoir un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " pour mon fils?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "43b0adf3-70a1-459b-a56a-557359a89793",
+    "data": [
+      {
+        "text": "il faut que j\u0027aille à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": " pour un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a6a085cc-7d54-4a5c-83d4-45cee10a73eb",
+    "data": [
+      {
+        "text": "comment je fait pour avoir un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " pour mon fils??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e0c0c285-2bed-4776-9eb8-a1926601e008",
+    "data": [
+      {
+        "text": "ou est ce que je peux avoir un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ceb6da2e-02ec-42e7-bd2f-aea5605cc8d9",
+    "data": [
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " s\u0027il te plait",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d1d982d2-1281-40af-966c-0d9b56f00c26",
+    "data": [
+      {
+        "text": "j\u0027ai",
+        "userDefined": false
+      },
+      {
+        "text": " vraiment besoin d\u0027un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", il faut que je passe à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": " c\u0027est ",
+        "userDefined": false
+      },
+      {
+        "text": "ça",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "902eed98-850c-487c-9373-bc25ffbef020",
+    "data": [
+      {
+        "text": "il me faut un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " mais je ne sais pas comment faire?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d915c31f-2bde-49e6-97f9-5620297a1f7e",
+    "data": [
+      {
+        "text": "comment je peux faire pour avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " pour ma fille de ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "userDefined": false
+      },
+      {
+        "text": " ans?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "51c5792d-42cf-4573-8057-1e0535e79fe6",
+    "data": [
+      {
+        "text": "mon fil doit aller en ",
+        "userDefined": false
+      },
+      {
+        "text": "Argentine",
+        "userDefined": false
+      },
+      {
+        "text": ", il a besoin d\u0027un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9ec58351-6c38-4916-be58-d78bbed892e1",
+    "data": [
+      {
+        "text": "ma fille a beosin d\u0027un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "ça",
+        "userDefined": false
+      },
+      {
+        "text": " se fait ",
+        "userDefined": false
+      },
+      {
+        "text": "en",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mairie",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9393999b-7c48-47a7-965d-58e3920bb442",
+    "data": [
+      {
+        "text": "il me faut un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": ", c\u0027est à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "6cb832e5-7cef-48b0-9187-6dbcec5eaaa5",
+    "data": [
+      {
+        "text": "vous faites les ",
+        "userDefined": false
+      },
+      {
+        "text": "passeports",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "01199876-5fbd-4828-841a-15bf195316f9",
+    "data": [
+      {
+        "text": "comment ",
+        "userDefined": false
+      },
+      {
+        "text": "ça",
+        "userDefined": false
+      },
+      {
+        "text": " se passe pour avoir un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "? c\u0027est à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5c4cccf4-3606-43a2-be56-dbf5959a7e63",
+    "data": [
+      {
+        "text": "je dois aller à la mairire pour un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "dd679806-7f22-4267-a949-2d496677d016",
+    "data": [
+      {
+        "text": "comment on fait pour avoir un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "5401b849-46de-4bd9-a2dc-8eeeec902434",
+    "data": [
+      {
+        "text": "comment ça marche pour avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "072658e6-0201-4d7a-9a6a-d334adf3a7a4",
+    "data": [
+      {
+        "text": "pour avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " c\u0027est à ",
+        "userDefined": false
+      },
+      {
+        "text": "la mairie",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ccb02bed-9c80-48e1-b0ee-8e8472d4cfb6",
+    "data": [
+      {
+        "text": "je ne sais pas comment faire faire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "3de752b7-e2f7-41ba-864c-b522f73b8bbf",
+    "data": [
+      {
+        "text": "je ne sais pas comment avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cni",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e4de2b90-9209-4686-9b81-1664c6f7a5bc",
+    "data": [
+      {
+        "text": "comment faire pour obtenir un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9912835a-7d01-48d2-80db-075eb07e9a74",
+    "data": [
+      {
+        "text": "comment faire pour obtenir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "carte d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ecbdf358-ed94-4553-a0fb-a2cbe4f755a7",
+    "data": [
+      {
+        "text": "comment faire pour avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pièce d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d4030535-16ac-4354-bee0-9a5c7d14d8fb",
+    "data": [
+      {
+        "text": "je dois faire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle ",
+        "userDefined": false
+      },
+      {
+        "text": "CNI",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a1585697-c72f-4d8d-ba75-1bb217a5e415",
+    "data": [
+      {
+        "text": "je dois faire faire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle ",
+        "userDefined": false
+      },
+      {
+        "text": "pièce d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "ccc3a5e9-01b1-4026-bd65-ad9a0c870876",
+    "data": [
+      {
+        "text": "comment faire pour avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " nouvelle ",
+        "userDefined": false
+      },
+      {
+        "text": "pièce d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2305f9e3-2bd5-4e63-ac8c-4ca21f377f03",
+    "data": [
+      {
+        "text": "comment avoir ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pièce d\u0027identité",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "02d5ff61-9844-4807-a771-10c1d2f61789",
+    "data": [
+      {
+        "text": "comment faire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cni",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "16656702-e09c-4e03-a9c8-16d285cdc06d",
+    "data": [
+      {
+        "text": "comment faire un ",
+        "userDefined": false
+      },
+      {
+        "text": "passeport",
+        "meta": "@PI",
+        "alias": "pi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c51ef309-91b8-44d1-86af-1a96a7895143",
+    "data": [
+      {
+        "text": "comment faire ",
+        "userDefined": false
+      },
+      {
+        "text": "une",
+        "userDefined": false
+      },
+      {
+        "text": " carte d\u0027indentité",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

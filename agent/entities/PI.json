@@ -1,0 +1,9 @@
+{
+  "id": "3a5f8aad-02d7-48b4-9fd9-b7bfee67b8e3",
+  "name": "PI",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
